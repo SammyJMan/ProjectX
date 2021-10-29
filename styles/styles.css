@@ -1,0 +1,118 @@
+.header{
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  position: absolute;
+  background-color: #E5E4E2;
+}
+.footer{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  background-color: #E5E4E2;
+}
+
+
+  .soadHeader{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 20%;
+    position: absolute;
+    background-color: #6F2A2A;
+  }
+  .soadFooter{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10%;
+    align-content: center;
+    position: absolute;
+    background-color: #6F2A2A;
+}
+
+
+.sdHeader{
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  position: absolute;
+  background-color: #00C4C1;
+}
+.sdFooter{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  background-color: #00C4C1;
+}
+
+.twrpHeader{
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  position: absolute;
+  background-color: #F8A328;
+}
+.twrpFooter{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  background-color: #F8A328;
+}
+
+
+.qHeader{
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  position: absolute;
+  background-color: #4B5959;
+}
+.qFooter{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  background-color: #4B5959;
+}
+
+
+.fullPage{
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  position: static;
+  background-color: #707173;
+}
+
+.headingFont{
+  font-size: 90px;
+  font-style: oblique;
+  font-style: italic;
+  font-weight: bold;
+}
+.heyAll{
+  font-size: 30px;
+
+}
+.links{
+  position: absolute;
+}
